@@ -11,7 +11,7 @@ In this repository, you will write two programs (as prompted in the Edpuzzle vid
 ```
 20
 19
-(some omitted for brevity)
+... (some omitted for brevity)
 11
 10
 ```
@@ -20,7 +20,7 @@ In this repository, you will write two programs (as prompted in the Edpuzzle vid
 2 is not divisible by 3
 3 is divisible by 3
 4 is not divisibe by 3
-(some omitted for brevity)
+... (some omitted for brevity)
 48 is divisible by 3
 49 is not divisble by 3
 50 is not divisible by 3
